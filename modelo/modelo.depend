@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1506172904 source:c:\users\alumno\desktop\modelo\lib.c
+	"lib.h"
+	<stdio.h>
+	<string.h>
+
+1506176396 c:\users\alumno\desktop\modelo\lib.h
+
+1506175707 source:c:\users\alumno\desktop\modelo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
